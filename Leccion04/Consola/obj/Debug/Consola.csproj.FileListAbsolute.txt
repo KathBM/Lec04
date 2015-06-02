@@ -1,0 +1,11 @@
+C:\Users\ULACIT\Source\Repos\diseno-2015\Leccion03\Consola\bin\Debug\Consola.exe.config
+C:\Users\ULACIT\Source\Repos\diseno-2015\Leccion03\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+C:\Users\ULACIT\Source\Repos\diseno-2015\Leccion03\Consola\bin\Debug\Consola.exe
+C:\Users\ULACIT\Source\Repos\diseno-2015\Leccion03\Consola\bin\Debug\Consola.pdb
+C:\Users\ULACIT\Source\Repos\diseno-2015\Leccion03\Consola\bin\Debug\Calculos.dll
+C:\Users\ULACIT\Source\Repos\diseno-2015\Leccion03\Consola\bin\Debug\Calculos.pdb
+C:\Users\ULACIT\Source\Repos\diseno-2015\Leccion03\Consola\obj\Debug\Consola.exe
+C:\Users\ULACIT\Source\Repos\diseno-2015\Leccion03\Consola\obj\Debug\Consola.pdb
+C:\Users\ULACIT\Source\Repos\Lec04\Leccion04\Consola\bin\Debug\Consola.exe.config
+C:\Users\ULACIT\Source\Repos\Lec04\Leccion04\Consola\obj\Debug\Consola.exe
+C:\Users\ULACIT\Source\Repos\Lec04\Leccion04\Consola\obj\Debug\Consola.pdb

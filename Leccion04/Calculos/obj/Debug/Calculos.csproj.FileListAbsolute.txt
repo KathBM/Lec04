@@ -1,0 +1,5 @@
+C:\Users\ULACIT\Source\Repos\diseno-2015\Leccion03\Calculos\bin\Debug\Calculos.dll
+C:\Users\ULACIT\Source\Repos\diseno-2015\Leccion03\Calculos\bin\Debug\Calculos.pdb
+C:\Users\ULACIT\Source\Repos\diseno-2015\Leccion03\Calculos\obj\Debug\Calculos.csprojResolveAssemblyReference.cache
+C:\Users\ULACIT\Source\Repos\diseno-2015\Leccion03\Calculos\obj\Debug\Calculos.dll
+C:\Users\ULACIT\Source\Repos\diseno-2015\Leccion03\Calculos\obj\Debug\Calculos.pdb
